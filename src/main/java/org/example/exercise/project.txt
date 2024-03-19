@@ -1,0 +1,10 @@
+Jon Snow, 25, America, Java Developer\n
+Mike Pence, 32, Sweden, Python Developer\n
+Winnie Pen, 35, London, CSS\n
+Doris You, 30, Nigeria, HTML\n
+Jane Smith, 28, Canada, JavaScript Developer\n
+Alex Johnson, 40, Australia, Ruby Developer#
+Liam White, 29, New Zealand, C# Developer#
+Emma Lee, 27, Singapore, UI/UX Designer#
+Oliver Chen, 33, China, Data Scientist#
+Sophia Wang, 31, Germany, DevOps Engineer#
